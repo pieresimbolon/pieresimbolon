@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pieresimbolon
-- 👀 I'm interested in learningl data and  useful languages to create fast software.
+- 👀 I'm interested in learning data and  useful languages to create fast software.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me 
 
